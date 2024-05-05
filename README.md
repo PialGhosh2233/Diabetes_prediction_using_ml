@@ -1,6 +1,3 @@
-Here’s a GitHub description for your diabetes prediction project:
-
-
 
 # Diabetes Prediction Model
 
