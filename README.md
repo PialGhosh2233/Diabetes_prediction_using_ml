@@ -8,7 +8,7 @@ The project leverages common machine learning techniques and several popular lib
 
 ## Project Overview
 
-The dataset used in this project is derived from the public Pima Indians Diabetes Database. It includes several diagnostic measurements such as glucose concentration, blood pressure, skin thickness, insulin level, BMI, age, and more.
+The dataset used in this project is derived from the the National Institute of Diabetes and Digestive and Kidney Diseases. It includes several diagnostic measurements such as glucose concentration, blood pressure, skin thickness, insulin level, BMI, age, and more.
 
 ## Key Features
 
